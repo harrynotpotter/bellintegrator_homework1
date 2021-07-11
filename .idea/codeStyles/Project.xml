@@ -1,0 +1,10 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
+      <REPEAT_ANNOTATIONS>
+        <ANNO name="de.ralleytn.simple.json.serialization.JSONAttribute" />
+      </REPEAT_ANNOTATIONS>
+    </JavaCodeStyleSettings>
+  </code_scheme>
+</component>
